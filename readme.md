@@ -17,3 +17,8 @@ This fork exists to capture these modifications for the benifit of anyone with a
 - I have removed the "case-with-screw-tower" since it is unmodified and the author does not reccomend its use.
 - I have not yet printed and tested the modified .stl file.
 - I have not yet incorporated the changes to the laser-cut acrylic top panel into the .f3z file - I'm not a Fusion user and lost patience - but you can rely on the .dxf file.
+
+## Cool add on with threaded insert
+
+The acrylic lid that I laser cut wasn't quite thick enough to be held in place by friction. So I designed an extra little 3D printed part that can sit on top of the peg in the corner and accommodate a threaded insert, allowing the lid to be screwed in place.
+

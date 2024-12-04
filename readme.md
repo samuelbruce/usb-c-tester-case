@@ -20,7 +20,7 @@ This fork exists to capture these modifications for the benifit of anyone with a
 
 ## Cool add on with threaded insert
 
-The acrylic lid that I laser cut wasn't quite thick enough to be held in place by friction. So I designed an extra little 3D printed part that can sit on top of the peg in the corner and accommodate a threaded insert, allowing the lid to be screwed in place.
+The acrylic lid that I laser cut wasn't quite thick enough to be held shut by friction. So I designed an extra little 3D printed part that can be glued on top of the peg in the corner and accommodate a threaded insert, allowing the lid to be screwed in place.
 
 ![case with cool add on with a threaded insert](images/thread_insert.jpg)
 
